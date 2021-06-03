@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Impartial account of the taking of Luxemburg by the French, after a long and doubtful siege together with a brief relation of what remarkably happened during the siege thereof.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46134</idno><idno type="EEBO-CITATION">12716085</idno>
+  <idno type="VID">66224</idno>
+  <idno type="EEBO-PROQUEST">2248573622</idno>
+  
+            <idno type="STC">Wing I77</idno>
+            <idno type="STC">ESTC R13095</idno>
+            <idno type="OCLC">12716085</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66224)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 358:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Impartial account of the taking of Luxemburg by the French, after a long and doubtful siege together with a brief relation of what remarkably happened during the siege thereof.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>For A. Bancks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715.</term>
+               <term type="geographic_name">Luxembourg --  History --  Siege, 1684.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:66224:1"/>
+            <head>THE Impartial Account Of the Taking of LUXEMBURG BY THE FRENCH, After a long and doubtful Siege.</head>
+            <head type="sub">Together with a Brief Relation of what Remarkably happened During the Siege thereof.</head>
+            <p>OUr last advice from <hi>Flanders,</hi> bearing date, <hi>May</hi> the 30th Instant, <hi>stilo novo,</hi> was as followeth, <hi>viz.</hi> That the Be<g ref="char:EOLhyphen"/>siegers being advanced to the Corner of the Capell, from thence Attacqued an Old Redoubt, (where the Besieged were Lodged) and in a short time made themselves Masters of it, and forced those that were Lodged within to Retreat, who then Sprung a Mine, and made the Besiegers Retire, and that imme<g ref="char:EOLhyphen"/>diately after the Besiegers with a second Attacque repossessed them<g ref="char:EOLhyphen"/>selves thereof; Lodging therein another Batallion, and raised a Buttery; but were to the number of 200 blown up by the Spring of a Second Mine, insomuch that the Besieged placing them<g ref="char:EOLhyphen"/>selves upon the Ruins, the Besiegers durst not Attacque it at pre<g ref="char:EOLhyphen"/>sent, for fear the Besieged should Spring a Third M<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e. Where<g ref="char:EOLhyphen"/>upon they resolved strongly to possess themselves of other works which before they had slighted, the better to recover breath, and amuse the besieged, whom they found resolutely bent to hold out to the last Extremity, as having Incouragement so to do, by rea<g ref="char:EOLhyphen"/>son of the forwardness of the <hi>Spanish</hi> Army, which they every day expected to Advance to their Relief; so that Lodging them<g ref="char:EOLhyphen"/>selves upon the covered way of the second Counterscarp, they fix<g ref="char:EOLhyphen"/>ed the Miners to the Counter-guard of the Bastion of <hi>Paffendal,</hi> re<g ref="char:EOLhyphen"/>solved with the springing of that Mine which they expected would do great Execution to make another Attacque upon the Old Castle, but it proved not so successful as they wished, for the besieged Sal<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, and at the same time Springing another Mine which did con<g ref="char:EOLhyphen"/>siderable Execution, again drove them out of their Works, but the
+<pb facs="tcp:66224:2"/> besiegers being hourly supplyed with fresh recruits and the besieged Weak, and much Harrazed through extraordinary Duty; Sickness and Wounds, within Twelve hours they recovered their former Station, and placed a Calivar against the said Castle, casting at the same time many <hi>Bombeys</hi> into the City, by that means setting it on Fire in divers places, which imploying the Inhabitants and part of the Garrison (which by this time was reduced to a small num<g ref="char:EOLhyphen"/>ber) in quenching thereof; the besieged with less Molestation then before, Advanced especially by way of Mining, but not so secret<g ref="char:EOLhyphen"/>ly, but in one of them, with which they had nearly reached the <hi>Weymures,</hi> they were Countermined, so that a sharp Incounter happened under Ground, and by the Springing of a small Side-Mine, many of the besiegers were over-whelmed, and such escaped as forced to Retire, which occasioned great dismay amongst them, but being promised great rewards, and animated by their Commanders, after the Town had been Battered for the space of six hours without intermission, and the <hi>Weymures</hi> rent in divers places, and at the same time a false Allarum given that the Miners might proceed with the less interuption. Three Bata<g ref="char:EOLhyphen"/>lions of Foot made an other Attacque upon the Springing of a Mine that over<g ref="char:EOLhyphen"/>threw a part of the Wall, but were so bravely resisted by the besieged, that lea<g ref="char:EOLhyphen"/>ving about 60 Dead bodies in the breach, they were (although seconded by ano<g ref="char:EOLhyphen"/>ther Commanded) Party obliged to Retire, yet having repaired a Ruined bastion within half a Musquets shot of the Wall, they Lodged there that Night, not<g ref="char:EOLhyphen"/>withstanding, the Cannon from the Castle beat so furiously upon them, killing not only divers Souldiers but some Officers of Note, but being recruited once more with another commanded party of <hi>Picardy,</hi> again a furious Attacque was made e're the breach could be repaired or Countermured, so that again it came to push of Pike, yet such was the bravery of the besieged, that bendinding di<g ref="char:EOLhyphen"/>vers Pieces of Cannon that lay as flanckers, they so gavled the besiegers that they were forced to Retreat, and as they retired fell upon a Mine, which as it is supposed, apcidentally took fire, and did considerable Execution, but in conclu<g ref="char:EOLhyphen"/>sion, the <hi>French</hi> Pioneirs under the favour of these Attacques and the several false Alarum, having placed their Mines under the wall, and part of the Castle; be<g ref="char:EOLhyphen"/>ing hard at work within the City, and the besieged not capable of Countermin<g ref="char:EOLhyphen"/>ing by reason of the small number they were reduced to, and the Governour be<g ref="char:EOLhyphen"/>ing out of all hopes to be succoured, in time finding his Magazine of Powder near wasted, began to harken to the cries and intreaties of the Poor Inhabitants, who feared the worst of Extreamity if the City should be taken by Storm, and perceiving the besiegers preparing for another resolute Atacque, and the City al<g ref="char:EOLhyphen"/>most destroyed with their <hi>Bombeys.</hi>
+            </p>
+            <p>And bravely having done all that Man was capable of doing, against so powerful an Enemy, after a parly it was agreed that the City with the Cannon and Magazine should be delivered up to the <hi>French</hi> King<hi>'s</hi> use, and the Garrison to March out with Bagg and Bagage, to be conducted to what place they should nominate; and the Citizens not to be molested in any thing, with many other advantagious Terms, (the particular whereof, more at large you may expect by the next) which being Signed and Ratified, the City was put into the hand, of the Marshal, <hi>D'Creque,</hi> or his order, and the Garrison accordingly Marched out. In this Siege it is conjectured the <hi>French</hi> lost 3000 Men, with many prime Commanders, and Voluntiers, and the besieged no less then 1000.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Bancks,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
